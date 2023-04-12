@@ -97,6 +97,8 @@ Install all dependencies as stated above, read individual technology documentati
   python live_cam_predict.py
 ```
 
+Built with ❤️ by the maintainers
+
 [//]: #
 [linkedin-ayush-sahu]: https://www.linkedin.com/in/ayushsahu77/
 [linkedin-akash-verma]: https://www.linkedin.com/in/akashverma095//
